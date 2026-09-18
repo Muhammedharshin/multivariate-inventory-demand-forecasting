@@ -43,6 +43,7 @@ Kaggle — [Walmart Recruiting: Store Sales Forecasting](https://www.kaggle.com/
 ```
 
 ## How to run
+https://multivariate-inventory-demand-forecasting-khmuauucwrhzpc6hva9g.streamlit.app/
 
 ```bash
 pip install -r requirements.txt
